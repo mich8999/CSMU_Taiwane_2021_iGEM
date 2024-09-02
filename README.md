@@ -5,4 +5,4 @@ iGEM全名為國際基因工程機械競賽（International Genetically Engineer
 
 而我負責的部分，是設計網頁，規劃網頁的排版、搭配顏色，讓網頁既美觀又好觀看，再加入一些動畫，豐富網頁的趣味性，使我們的網頁除了有專業的內容外，還能抓住他人的目光繼續閱讀下去。
 
-連結為參加iGEM的作品：https://2021.igem.org/Team:CSMU_Taiwan
+連結為iGEM的作品：https://2021.igem.org/Team:CSMU_Taiwan
